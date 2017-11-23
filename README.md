@@ -1,4 +1,5 @@
 # coupon_collectors_society
+
 Computational approach to coupon collectors problem.
 
 This is a small computational approach to coupon collectors problem https://en.wikipedia.org/wiki/Coupon_collector%27s_problem .
